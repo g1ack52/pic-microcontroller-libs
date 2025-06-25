@@ -1,0 +1,10 @@
+void lcd_initialize(void);
+void lcd_on(void);
+void cursor_pos(int);
+void cursor_home(void);
+void clear(void);
+void output_frase(char*);
+void output_char(char);
+void stringa_float_stringa_output(char*, float, char*);
+void output_int(int);
+void output_float(float);
