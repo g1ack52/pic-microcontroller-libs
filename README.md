@@ -40,9 +40,3 @@ Each module comes with `.c` and `.h`:
 - **Target MCU:** PIC18F877A
 
 ---
-
-## 🚀 Getting Started
-
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/yourusername/pic18f877a-drivers
