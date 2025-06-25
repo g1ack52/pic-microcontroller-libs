@@ -38,7 +38,6 @@ Each module comes with `.c` and `.h` files and simple usage examples (where avai
 - **Compiler:** MPLAB XC8
 - **IDE:** MPLAB X IDE
 - **Target MCU:** PIC18F877A
-- **Clock:** 20 MHz (adjust if needed in code)
 
 ---
 
