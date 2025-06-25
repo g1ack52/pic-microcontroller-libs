@@ -21,7 +21,7 @@ It’s ideal for learning embedded systems programming and interfacing with basi
 
 ## 📂 Included Drivers
 
-Each module comes with `.c` and `.h` files and simple usage examples (where available):
+Each module comes with `.c` and `.h`:
 
 | Module      | Description                              |
 |-------------|------------------------------------------|
